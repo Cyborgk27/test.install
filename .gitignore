@@ -1,0 +1,6 @@
+
+banking-management/
+test.frontend/
+db_data/
+.env
+*.log
